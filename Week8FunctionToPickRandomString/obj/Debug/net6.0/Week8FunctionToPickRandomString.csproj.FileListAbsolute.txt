@@ -1,0 +1,14 @@
+C:\Users\Animal V2 Mobile\source\repos\Week8FunctionToPickRandomString\Week8FunctionToPickRandomString\obj\Debug\net6.0\Week8FunctionToPickRandomString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Animal V2 Mobile\source\repos\Week8FunctionToPickRandomString\Week8FunctionToPickRandomString\obj\Debug\net6.0\Week8FunctionToPickRandomString.AssemblyInfoInputs.cache
+C:\Users\Animal V2 Mobile\source\repos\Week8FunctionToPickRandomString\Week8FunctionToPickRandomString\obj\Debug\net6.0\Week8FunctionToPickRandomString.AssemblyInfo.cs
+C:\Users\Animal V2 Mobile\source\repos\Week8FunctionToPickRandomString\Week8FunctionToPickRandomString\obj\Debug\net6.0\Week8FunctionToPickRandomString.csproj.CoreCompileInputs.cache
+C:\Users\Animal V2 Mobile\source\repos\Week8FunctionToPickRandomString\Week8FunctionToPickRandomString\bin\Debug\net6.0\Week8FunctionToPickRandomString.exe
+C:\Users\Animal V2 Mobile\source\repos\Week8FunctionToPickRandomString\Week8FunctionToPickRandomString\bin\Debug\net6.0\Week8FunctionToPickRandomString.deps.json
+C:\Users\Animal V2 Mobile\source\repos\Week8FunctionToPickRandomString\Week8FunctionToPickRandomString\bin\Debug\net6.0\Week8FunctionToPickRandomString.runtimeconfig.json
+C:\Users\Animal V2 Mobile\source\repos\Week8FunctionToPickRandomString\Week8FunctionToPickRandomString\bin\Debug\net6.0\Week8FunctionToPickRandomString.dll
+C:\Users\Animal V2 Mobile\source\repos\Week8FunctionToPickRandomString\Week8FunctionToPickRandomString\bin\Debug\net6.0\Week8FunctionToPickRandomString.pdb
+C:\Users\Animal V2 Mobile\source\repos\Week8FunctionToPickRandomString\Week8FunctionToPickRandomString\obj\Debug\net6.0\Week8FunctionToPickRandomString.dll
+C:\Users\Animal V2 Mobile\source\repos\Week8FunctionToPickRandomString\Week8FunctionToPickRandomString\obj\Debug\net6.0\refint\Week8FunctionToPickRandomString.dll
+C:\Users\Animal V2 Mobile\source\repos\Week8FunctionToPickRandomString\Week8FunctionToPickRandomString\obj\Debug\net6.0\Week8FunctionToPickRandomString.pdb
+C:\Users\Animal V2 Mobile\source\repos\Week8FunctionToPickRandomString\Week8FunctionToPickRandomString\obj\Debug\net6.0\Week8FunctionToPickRandomString.genruntimeconfig.cache
+C:\Users\Animal V2 Mobile\source\repos\Week8FunctionToPickRandomString\Week8FunctionToPickRandomString\obj\Debug\net6.0\ref\Week8FunctionToPickRandomString.dll
